@@ -61,6 +61,4 @@ For more details, refer to the [Create React App Documentation](https://facebook
 
 ---
 
-## Demo Video
 
-Watch the project in action here: [Demo Video Link](https://placeholder.com/video-link)
