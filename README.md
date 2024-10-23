@@ -4,8 +4,8 @@ This project aims to protect users from fraudulent activities, such as phishing 
 
 ---
 
-![System Overview](https://github.com/adiityack/otp_based_fraud_prevention_secure/blob/master/working.png)  
-![Report Overview](https://github.com/adiityack/otp_based_fraud_prevention_secure/blob/master/report.png)
+![System Overview](https://github.com/tejasvising/otp_based_fraud_detection/blob/master/working.png)  
+![Report Overview](https://github.com/tejasvising/otp_based_fraud_detection/blob/master/report.png)
 
 ---
 
